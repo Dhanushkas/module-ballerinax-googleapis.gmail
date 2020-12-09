@@ -2,7 +2,7 @@
 
 | Ballerina Language Version | Gmail API Version |  
 |:--------------------------:|:-----------------:|
-| Swan Lake Preview5         |        v1         |
+| Swan Lake Preview7         |        v1         |
 
 ### Prerequisites
 
